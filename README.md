@@ -28,3 +28,8 @@ The workflow demonstrates the complete Machine Learning pipeline, including data
 One of the key advantages of this project is its simplicity and scalability. The model can easily be improved by adding larger datasets, advanced preprocessing techniques, or more sophisticated algorithms. This makes the project a strong foundation for future Machine Learning and Artificial Intelligence applications.
 
 By automating spam detection using Machine Learning, this implementation reduces manual effort and enhances productivity in managing email communication. The repository includes the Jupyter Notebook containing the full implementation, training process, evaluation results, and predictions. Overall, this project demonstrates how Machine Learning concepts can be practically applied to create intelligent systems capable of solving real-world classification problems in academic and professional environments.
+
+
+##*OUTPUT*
+
+<img width="711" height="265" alt="Image" src="https://github.com/user-attachments/assets/1f7397fe-4bfd-435f-9391-89f91de1e61d" />
